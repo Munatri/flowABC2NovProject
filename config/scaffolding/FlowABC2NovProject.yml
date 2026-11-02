@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: FlowABC2NovProject
+  gitServerName: GithubOrigin
+  gitUrl: https://github.com/Munatri
+  gitUsername: Munatri
+  gitBranch: main
